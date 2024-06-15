@@ -1,0 +1,10 @@
+1: Which planet is known as the Red Planet? , Venus , Jupiter , Mars , Sun , 3
+2: What is the largest ocean on Earth? 	, Arabian Sea , Pacific Ocean , Red Ocean , Arctic Ocean , 2
+3: Who wrote 'Hamlet'? , William Shakespeare , Roald Dahl , Jane Austen , George Eilot , 1
+4: What is the largest species of owl in the world? , Barn Owl , Eastern Screech Owl , Blakiston Fish Owl , Long-eared Owl , 3
+5: What is the smallest prime number? , 2 , 0 , 3 , 1 , 1	
+6: What is the square root of 64? , 32 , 64 , 4 , 8 , 4	
+7: Who painted the Mona Lisa? , Salvador Dali , Leonardo da Vinci , Claude Monet , Raphael , 2	
+8: What is the chemical symbol for gold? , AG , ag , AU , au , 4
+9: What is the tallest mountain in the world? , Kilimanjaro , Mont Blanc , Mount Everest , Nanga Parbat , 3
+10: How many continents are there on Earth? , 9 , 7 , 10 , 8 , 2

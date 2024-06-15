@@ -1,0 +1,10 @@
+1: What is the full form of WHO? , World Health Org. , Wide Health Org. , World Heart Org. , Women Health Org. , 1
+2: Hilter party which came in 1933 is Known  as? , Weimar Party , Nazi Party , Hitler Party , Rasman Party , 2
+3: Which country has highest  population in the world? , China , Russia , Nigeria , India , 4
+4: Who was the first female Pakistani fighter pilot to die in the line of duty?	, Saira Batool , Shuriya Khanum , Marium Mukhtiar , Maliha Sami , 3
+5: who became the youngest Microsoft Certified Professional (MCP) in 2004? , Ifra Khan , Marium Naz , Malala Yousafzai , Arfa Abdul Karim , 4
+6: Who was the first muslim scientist to win a noble prize? , Abdus Salam , Abbas ibn Firnas , Omar Khayyam , Jabir ibn Hayyan , 1	
+7: Where is a shrimp's heart located?	, Near Ribs , in its tail , in its head , near liver , 3
+8: Who was the first female prime minister of Pakistan?	, Yasmin Rashid , Kalsoom Nawaz(Late) , Maryam Nawaz , Benair Bhutto(Late) , 4
+9: Which mammal has no vocal cord? , Shrimp , Snail , Giraffe , Hamster , 3
+10: Which is the largest continent in the world? , Asia , Africa , North America , Europe , 1

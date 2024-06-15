@@ -1,0 +1,10 @@
+1: What is the capital of France? , Paris , Landon , Tehran , Beijing , 1
+2: What is the largest planet in our solar system? , Mars , Earth , Sun , Jupiter, 4
+3: What is the longest river in the world? , Nile River , Bomu River , Panjand River , Jizera River , 1
+4: What is the hardest natural substance on Earth? , Gold , Diamond , Silver , Lead , 2
+5: How many legs does a spider have? , 10 , 12 , 7 , 8 , 4
+6: How many colors are there in a rainbow? , 8 , 7 , 5 , 9 , 2
+7: What is the largest dessert in the world? , Sonoran Desert , Thar Desert , Sahara desert , Arabian Desert , 3
+8: What is the largest mammal in the world? , Lion , Monkey , Elephant , Blue Whale , 4
+9: How many teeth does an adult human have? , 33 , 34 , 32 , 30 , 3
+10: What is the largest internal organ in the human body? , Stomach , Brain , Liver , Lungs , 3 

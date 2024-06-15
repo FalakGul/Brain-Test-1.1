@@ -1,0 +1,3 @@
+basic:30
+intermediate:20
+advanced:30
